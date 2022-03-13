@@ -17,7 +17,10 @@ function Contacts() {
     {
       fullname: "Ali",
       phone_number: 9514,
-    },
+    },{
+      fullname:"Fatih",
+      phone_number:532
+    }
   ]);
 
   useEffect(() => {
